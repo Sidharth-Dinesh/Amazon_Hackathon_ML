@@ -7,8 +7,13 @@ As part of this hackathon, we used product metadata to classify products into br
 
 ## Full Train/Test dataset details:
 Key column – PRODUCT_ID
+
 Input features – TITLE, DESCRIPTION, BULLET_POINTS, BRAND
+
 Target column – BROWSE_NODE_ID
+
 Train dataset size – 2,903,024
+
 Number of classes in Train – 9,919
+
 Overall Test dataset size – 110,775
